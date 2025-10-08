@@ -1,31 +1,63 @@
-# Unyt Tx5 Releases
+<div align="center">
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/unytco/unyt-sandbox-tx5?style=for-the-badge)
-![GitHub All Releases](https://img.shields.io/github/downloads/unytco/unyt-sandbox-tx5/total?style=for-the-badge)
+# <img src="src-tauri/icons/circulo-logo.svg" alt="Circulo" width="300">
 
-## Related docs
+![Latest Release](https://img.shields.io/github/v/release/unytco/circulo-tx5?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/unytco/circulo-tx5/total?style=flat-square&color=green)
+![License](https://img.shields.io/github/license/unytco/circulo-tx5?style=flat-square)
 
-- [Invite to Play](./testing_docs/1_0_invite.md)
-- [Unyt Setup](./README.md)
-- [Detailed Documentation](./testing_docs/5_0_phase_5_testing_details.md)
-- [Unyt Dictionary](./testing_docs/4_2_unyt-dictionary.md)
-- [The Smart Agreement Overview](./testing_docs/5_0_Smart_Agreement_Release.md)
-- [Intro to Smart Agreements (Three Layers)](./testing_docs/4_1_intro_to_smart_agreements.md)
-- [Templates and Smart Agreements Library Repo](https://github.com/unytco/smart_agreement_library)
-- [Feedback](https://github.com/orgs/unytco/projects/5/views/1)
+### A Playful Take on p2p Payments
 
+<div align="left">
+<h3>
 
-## Intro
+</h3>
+<h3> 
+Introduction
+</h3>
+<p>
+Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine. 
+</p>
+<p>
+Everyone starts with an account balance of zero and a small credit limit. Your credit limit determines the max you can spend below zero. 
+</p>
+<p>
+Circulo makes use of a very simple credit algorithm: every time you send someone some units, your credit limit increases by 10.  This is a very simple, and easily gameable credit algorithm. It also makes it easy for people to play with it.
+</p>
 
-Unyt is a Holochain based application for creating agent-centric, peer-to-peer, Mutual Credit accounting systems with smart contract like functionality.
+<p>
+In Circulo, as soon as you send someone units, your account will be debited.  However, the receiver's account balance won't include those units until they exercize their own agency and choose to accept them. If they never accept them, they remain available for them to collect. No one else is able to claim them.
+</p>
+<p>
+By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
+</p>
+<h3>
+Testing
+</h3> 
+<p>
+Circulo is a toddler as far as software goes. But feel free to try and trip it up. 
+</p>
+<p>
+If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). 
+</p>
+<p>
+To get past an error:
 
-We are working with potential partner projects like yours as we build out this software to ensure that it meets the needs of your team as well as your community of users.
+1. Reload: When in doubt try: Right click > Reload
+2. Restart: When a few reload tries don't work, please quit and restart
+3. Wait: making yourself a cup of tea resolves most things
 
-## Invite to Play
+</p>
+<p>
+We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is helpful.
+</p>
 
-We [invite you to play](./testing_docs/1_0_testing_plan.md) alongside others in kicking the tires on Unyt and playing with Smart Agreements.
+<p>
 
-Details on how to join the conversation about Unyt in the Holochain DEV.HC Discord is also in that invite page.
+</p>
+</div>
+
+</div>
 
 ## Downloads Zero Arc releases
 
@@ -39,9 +71,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.exe)
 
 </td>
 <td width="25%" align="center">
@@ -50,9 +82,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_aarch64_darwin.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_aarch64_darwin.dmg)
 
-[Intel (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_darwin.dmg)
+[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
@@ -61,9 +93,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[AppImage](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.AppImage)
+[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.AppImage)
 
-[Debian (.deb)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.deb)
 
 </td>
 <!-- 
@@ -73,9 +105,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[APK](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.0.1/app-universal-release.apk)
+[APK](https://github.com/unytco/circulo-tx5/releases/download/v0.0.1/app-universal-release.apk)
 
-[AAB Bundle](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.0.1/app-universal-release.aab)
+[AAB Bundle](https://github.com/unytco/circulo-tx5/releases/download/v0.0.1/app-universal-release.aab)
 
 </td> 
 -->
@@ -96,9 +128,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.exe)
 
 </td>
 <td width="25%" align="center">
@@ -107,9 +139,9 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_aarch64_darwin.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_aarch64_darwin.dmg)
 
-[Intel (x64)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_darwin.dmg)
+[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
@@ -118,51 +150,80 @@ Details on how to join the conversation about Unyt in the Holochain DEV.HC Disco
 
 ---
 
-[AppImage](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.AppImage)
+[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.AppImage)
 
-[Debian (.deb)](https://github.com/unytco/unyt-sandbox-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.deb)
 
 </tr>
 </table>
 </div>
 
-All available versions can be found in the [Releases](https://github.com/unytco/unyt-sandbox-tx5/releases/)
+> **Note:** Download links point to the v0.0.1 release. For the latest version, visit the [releases page](https://github.com/unytco/circulo-tx5/releases).
 
-Once installed, the Unyt software will run locally on your device and connect with others also running the software to operate as a peer-to-peer application.
+## Installation
 
-## Setup
+<details>
+<summary><strong>Windows</strong></summary>
 
-Note: In Mac, because you downloaded the software directly and not through Apple's App Store, you may need to open the System Settings and go to Privacy and Security, scroll down to Security and give Unyt permission to run.
+1. Download the `.msi` installer
+2. Run the installer and follow the setup wizard
+3. Launch Circulo from the Start menu
 
-If you want to delete everything and start over with a new account, check out [Starting Fresh](./testing_docs/starting_fresh.md)
+</details>
 
+<details>
+<summary><strong>macOS</strong></summary>
 
-When you open Unyt on your operating system for the first time, it will create a set of public and private keys for you that you can use to interact with others. These are stored in a private keystore (Lair) on your own machine and are used during future uses. In Unyt we often refer to this public key as "your address" as it is how others can refer to you when sending, receiving or authorizing you to perform particular roles.
+1. Download the `.dmg` file
+2. Open the DMG and drag Circulo to your Applications folder
+3. Launch from Applications (you may need to allow the app in System Preferences > Security)
 
-[Share your address](https://forms.gle/sbCFUuv8sGyYhnc97) with others and find theirs as well in the [Address Spreadsheet](https://docs.google.com/spreadsheets/d/1gusOPtLVpT2RCDP7DRhVX39OEE-XAv26pnkPrwZbqzM/edit?gid=2043153663#gid=2043153663).
+</details>
 
-We [invite you to play](./testing_docs/1_0_invite.md) alongside others.
+<details>
+<summary><strong>Linux</strong></summary>
 
-## Intro
-Unyt is a Holochain based application for creating p2p credit and payment systems with Smart Agreement functionality.
+**AppImage (Recommended)**
 
-This release is focused on highlighting Unyt's approach to Smart Agreements.
+1. Download the `.AppImage` file
+2. Make it executable: `chmod +x circulo_0.1.0_amd64.AppImage`
+3. Run: `./circulo_0.1.0_amd64.AppImage`
 
-Though they sound similar to Blockchain Smart Contracts, Unyt's Smart Agreements work a little differently and open up some new possibilities.
+**Debian/Ubuntu**
 
-Smart Agreements are flexible, lightweight, and are anchored in the agency of each participant.
+1. Download the `.deb` package
+2. Install: `sudo dpkg -i circulo_0.1.0_amd64.deb`
+3. Run: `circulo`
 
-To dive into more details on Smart Agreements, check out:
-- [Arthur Brock's Blog Post]()
-- [The Smart Agreement Overview](./testing_docs/5_0_Smart_Agreement_Release.md)
-- [Intro to Creating Smart Agreements](./testing_docs/4_1_intro_to_smart_agreements.md)
-- [Smart Agreements Library](https://github.com/unytco/smart_agreement_library)
-- [Unyt Dictionary](./testing_docs/4_2_unyt-dictionary.md)
+</details>
 
+<!-- <details>
+<summary><strong>Android</strong></summary>
 
+1. Download the appropriate APK for your device architecture
+2. Enable "Install from unknown sources" in your device settings
+3. Install the APK file
+4. Launch Circulo from your app drawer
+
+</details> -->
+
+## System Requirements
+
+| Platform    | Minimum Requirements                    |
+| ----------- | --------------------------------------- |
+| **Windows** | Windows 10 (64-bit) or later            |
+| **macOS**   | macOS 10.15 (Catalina) or later         |
+| **Linux**   | Ubuntu 18.04+ / equivalent distribution |
+
+ <!--        | **Android**                             | Android 7.0 (API level 24) or later | -->
+
+**Recommended:** 4GB RAM, 1GB free disk space, internet connection for updates
+
+## Support
+
+- [Report Issues](https://github.com/unytco/circulo-tx5/issues)
+- [Discussions](https://link-to-telegram)
 
 ## License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
-Copyright (C) 2024 - 2025, unyt.co
