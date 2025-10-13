@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- running on holochain v0.6.0-ev27
+- running on holochain v0.6.0-dev27
 - holochain using tx5 with go-pion backend
-- added zero-arc releases for futher improve scaling
-- some ui updated based on feedback
+- added zero-arc releases for further improvement of scaling
+- some ui updated based on feedback from v0.1
