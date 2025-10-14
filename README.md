@@ -16,6 +16,10 @@
 Introduction
 </h3>
 <p>
+Welcome to version 2 of Circulo!
+</p>
+<p>
+
 Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine. 
 </p>
 <p>
