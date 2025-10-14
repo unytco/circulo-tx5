@@ -24,7 +24,6 @@ Everyone starts with an account balance of zero and a small credit limit. Your c
 <p>
 Circulo makes use of a very simple credit algorithm: every time you send someone some units, your credit limit increases by 10.  This is a very simple, and easily gameable credit algorithm. It also makes it easy for people to play with it.
 </p>
-
 <p>
 In Circulo, as soon as you send someone units, your account will be debited.  However, the receiver's account balance won't include those units until they exercize their own agency and choose to accept them. If they never accept them, they remain available for them to collect. No one else is able to claim them.
 </p>
@@ -35,7 +34,14 @@ By anchoring activity in the agency of the participants themselves, Circulo open
 Testing
 </h3> 
 <p>
-Circulo is a toddler as far as software goes. But feel free to try and trip it up. 
+This second version of Circulo has a few changes under the hood, most notably that most people will be running a lightweight version of the app that we call zero-arc.
+</p>
+<p>
+The main thing we want to put stress on during this test is the current configuration's ability to handle lots of people and lots of transactions. So, go ahead and make a bunch of sends and requests to lots of folks.
+</p>
+<p>
+Find some people to send CIRC to in the [Circulo2 Addresses Sheet](https://docs.google.com/spreadsheets/d/1WCAUZX50uofbkgWRT02s2iV9bHYi3IYEl40bT8dBrHk/edit?usp=sharing).
+And [add yourself using this form](https://forms.gle/eFLtpB7Ak5ADt1aE8) so that others can send CIRC to you. 
 </p>
 <p>
 If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). 
@@ -49,17 +55,13 @@ To get past an error:
 
 </p>
 <p>
-We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is helpful.
-</p>
-
-<p>
-
+We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is , too.
 </p>
 </div>
 
 </div>
 
-## Downloads Zero Arc releases
+## Downloads
 
 <div align="center">
 
@@ -71,66 +73,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_windows.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_windows.exe)
-
-</td>
-<td width="25%" align="center">
-
-### **MacOS**
-
----
-
-[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_aarch64_darwin.dmg)
-
-[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_x64_darwin.dmg)
-
-</td>
-<td width="25%" align="center">
-
-### **Linux**
-
----
-
-[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.AppImage)
-
-[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_zero-arc_0.40.0_amd64_linux.deb)
-
-</td>
-<!-- 
-<td width="25%" align="center">
-
-### **Android**
-
----
-
-[APK](https://github.com/unytco/circulo-tx5/releases/download/v0.0.1/app-universal-release.apk)
-
-[AAB Bundle](https://github.com/unytco/circulo-tx5/releases/download/v0.0.1/app-universal-release.aab)
-
-</td> 
--->
-</tr>
-</table>
-
-</div>
-
-## Download Full Arc releases
-
-<div align="center">
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### **Windows**
-
----
-
-[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.msi)
-
-[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_windows.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_windows.exe)
 
 </td>
 <td width="25%" align="center">
@@ -139,9 +84,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_aarch64_darwin.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_aarch64_darwin.dmg)
 
-[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_x64_darwin.dmg)
+[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
@@ -150,15 +95,17 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.AppImage)
+[AppImage](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_0.2.0_amd64_linux.AppImage)
 
-[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.40.0/Unyt-tx5_0.40.0_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_0.2.0_amd64_linux.deb)
 
+</td>
+
+---
 </tr>
 </table>
-</div>
 
-> **Note:** Download links point to the v0.0.1 release. For the latest version, visit the [releases page](https://github.com/unytco/circulo-tx5/releases).
+</div>
 
 ## Installation
 
