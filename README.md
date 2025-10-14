@@ -100,7 +100,7 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_aarch64_darwin.dmg)
+[Apple Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_aarch64_darwin.dmg)
 
 [Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_x64_darwin.dmg)
 
