@@ -85,9 +85,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_windows.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_0.2.0_x64_windows.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_windows.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_x64_windows.exe)
 
 </td>
 <td width="25%" align="center">
@@ -96,9 +96,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_aarch64_darwin.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_aarch64_darwin.dmg)
 
-[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_zero-arc_0.2.0_x64_darwin.dmg)
+[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
@@ -107,9 +107,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[AppImage](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_0.2.0_amd64_linux.AppImage)
+[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_0.2.0_amd64_linux.AppImage)
 
-[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/untagged-31f206e787b87fe2ed1c/Circulo_0.2.0_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_0.2.0_amd64_linux.deb)
 
 </td>
 
