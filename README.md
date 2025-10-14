@@ -39,6 +39,18 @@ This second version of Circulo has a few changes under the hood, most notably th
 <p>
 The main thing we want to put stress on during this test is the current configuration's ability to handle lots of people and lots of transactions. So, go ahead and make a bunch of sends and requests to lots of folks.
 </p>
+We are planning to do a couple of focused rounds of testing of this version of Circulo. 
+</p>
+<p>
+Testing will launch on Tuesday, October 14th and we are asking folks to really kick the tires on the app for a couple of days. 
+</p>
+<p>
+After Thursday, the 16th, people can still play with the app, but assume that most people won't be online.
+</p>
+<p>
+Then we are planning to do a second round of testing next week.   
+<p>
+</p>
 <p>
 Find some people to send CIRC to in the [Circulo2 Addresses Sheet](https://docs.google.com/spreadsheets/d/1WCAUZX50uofbkgWRT02s2iV9bHYi3IYEl40bT8dBrHk/edit?usp=sharing).
 And [add yourself using this form](https://forms.gle/eFLtpB7Ak5ADt1aE8) so that others can send CIRC to you. 
