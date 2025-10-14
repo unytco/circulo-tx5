@@ -48,12 +48,12 @@ Testing will launch on Tuesday, October 14th and we are asking folks to really k
 After Thursday, the 16th, people can still play with the app, but assume that most people won't be online.
 </p>
 <p>
-Then we are planning to do a second round of testing next week.   
+We are planning to do a second round of testing of the app early next week.
 <p>
 </p>
 <p>
-Find some people to send CIRC to in the [Circulo2 Addresses Sheet](https://docs.google.com/spreadsheets/d/1WCAUZX50uofbkgWRT02s2iV9bHYi3IYEl40bT8dBrHk/edit?usp=sharing).
-And [add yourself using this form](https://forms.gle/eFLtpB7Ak5ADt1aE8) so that others can send CIRC to you. 
+Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1WCAUZX50uofbkgWRT02s2iV9bHYi3IYEl40bT8dBrHk/edit?usp=sharing">Circulo2 Addresses Sheet</a>.
+And <a href="https://forms.gle/eFLtpB7Ak5ADt1aE8">add yourself using this form</a> so that others can send CIRC to you. 
 </p>
 <p>
 If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). 
