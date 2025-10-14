@@ -20,7 +20,8 @@ Welcome to version 2 of Circulo!
 </p>
 <p>
 
-Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine. 
+Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine.
+
 </p>
 <p>
 Everyone starts with an account balance of zero and a small credit limit. Your credit limit determines the max you can spend below zero. 
@@ -111,13 +112,14 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_0.2.0_amd64_linux.AppImage)
+[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_amd64_linux.AppImage)
 
-[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_0.2.0_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.2.0/Circulo_zero-arc_0.2.0_amd64_linux.deb)
 
 </td>
 
 ---
+
 </tr>
 </table>
 
