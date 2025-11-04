@@ -62,6 +62,9 @@ pub fn run() {
     builder = builder.plugin(tauri_plugin_dialog::init());
     println!("[unyt_tauri] Added dialog plugin");
 
+    builder = builder.plugin(tauri_plugin_http::init());
+    println!("[unyt_tauri] Added HTTP plugin");
+
     let holochain_dir = holochain_dir();
     let network_config = network_config();
     println!("[unyt_tauri] Holochain directory: {:?}", holochain_dir);
@@ -176,7 +179,7 @@ async fn open_window(handle: AppHandle) -> anyhow::Result<WebviewWindow> {
     {
         println!("[unyt_tauri] open_window: Configuring desktop window properties");
         window_builder = window_builder
-            .title(String::from("Unyt"))
+            .title(app_config.product_name)
             .inner_size(1400.0, 1000.0);
         println!(
             "[unyt_tauri] open_window: Desktop window configured with title 'Unyt' and size 1400x1000"
@@ -335,6 +338,12 @@ fn network_config() -> NetworkConfig {
         "iceServers": [
             { "urls": ["stun:stun.cloudflare.com:3478", "stun:stun.l.google.com:19302"]}
         ]
+    }));
+
+    network_config.advanced = Some(serde_json::json!({
+        "tx5Transport": {
+            "timeoutS": 30, // defaults to 60
+        }
     }));
 
     // Configure arc factor: only set to 0 for zero arc mode, otherwise use Holochain default
