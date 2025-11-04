@@ -10,7 +10,7 @@ launch:
 	cd unyt && yarn build:happ
 	mkdir -p workdir
 	cp -r unyt/workdir/unyt.happ workdir/unyt.happ
-	yarn network:tauri
+	VITE_APP_NAME="Circulo" VITE_IS_CIRCULO_RELEASE="true" yarn network:tauri
 
 launch-android: install
 	yarn launch:android

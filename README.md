@@ -84,9 +84,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### **Windows**
+#### **Windows**
 
 ---
 
@@ -97,7 +97,7 @@ We are using software called Sentry to help track errors so we can better unders
 </td>
 <td width="25%" align="center">
 
-### **MacOS**
+#### **MacOS**
 
 ---
 
@@ -108,7 +108,7 @@ We are using software called Sentry to help track errors so we can better unders
 </td>
 <td width="25%" align="center">
 
-### **Linux**
+#### **Linux**
 
 ---
 
