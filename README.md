@@ -8,6 +8,8 @@
 
 ### A Playful Take on p2p Payments
 
+<img src="docs/images/circulo3-agent-settings.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
+
 <div align="left">
 <h3>
 
@@ -27,7 +29,7 @@ Circulo is a generosity oriented peer-to-peer payments system, built using the U
 Everyone starts with an account balance of zero and a small credit limit. Your credit limit determines the max you can spend below zero. 
 </p>
 <p>
-Circulo makes use of a very simple credit algorithm: every time you send someone some units, your credit limit increases by 10.  This is a very simple, and easily gameable credit algorithm. It also makes it easy for people to play with it.
+Circulo makes use of a very simple credit algorithm: every time you send someone some units, your credit limit increases a little bit.  This is a very simple, and easily gameable credit algorithm. It also makes it easy for people to play with it.
 </p>
 <p>
 In Circulo, as soon as you send someone units, your account will be debited.  However, the receiver's account balance won't include those units until they exercize their own agency and choose to accept them. If they never accept them, they remain available for them to collect. No one else is able to claim them.
@@ -35,44 +37,53 @@ In Circulo, as soon as you send someone units, your account will be debited.  Ho
 <p>
 By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
 </p>
+<p>
+Check out the <a href="https://unyt.co/blog/pays-well-with-others/">blog post on Circulo3</a> for more details not only on this release but also on the role that Circulo is playing in helping improve Unyt and Holochain more generally.
+</p>
+<img src="docs/images/Switch-languages-in-Circulo3.png" alt="Switching languages in Circulo3" width="100%" style="max-width: 800px; height: auto;">
+
 <h3>
 Testing
 </h3> 
 <p>
-This second version of Circulo has a few changes under the hood, most notably that most people will be running a lightweight version of the app that we call zero-arc.
+This third version of Circulo provides support for multiple languages including Turkish, German, Spanish and French. Simply go to Agent Overview > Settings Gear > Language and pick whichever mother tongue that speaks to you. And if there is another language you want included and that you can help with, reach out. 
 </p>
 <p>
-The main thing we want to put stress on during this test is the current configuration's ability to handle lots of people and lots of transactions. So, go ahead and make a bunch of sends and requests to lots of folks.
+Circulo3 also includes some performance improvements that should make the app a bit faster and more reliable. 
 </p>
+<p>
 We are planning to do a couple of focused rounds of testing of this version of Circulo. 
 </p>
 <p>
-Testing will launch on Tuesday, October 14th and we are asking folks to really kick the tires on the app for a couple of days. 
+Testing will start on Wednesday, November 5th and we are asking folks to send transactions, try out different languages and just generally explore the app for a couple of days.
 </p>
 <p>
-After Thursday, the 16th, people can still play with the app, but assume that most people won't be online.
+After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) won't be online over the weekend.
 </p>
 <p>
-We are planning to do a second round of testing of the app early next week.
-<p>
+We are planning to do a second round of testing of the app again early next week on Monday, November 10th through Tuesday the 11th. This second round of testing just helps surface any issues that may show up on longer running apps, but also gives more people a chance to try out the app alongside others.
 </p>
 <p>
-Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1WCAUZX50uofbkgWRT02s2iV9bHYi3IYEl40bT8dBrHk/edit?usp=sharing">Circulo2 Addresses Sheet</a>.
-And <a href="https://forms.gle/eFLtpB7Ak5ADt1aE8">add yourself using this form</a> so that others can send CIRC to you. 
+Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Addresses Sheet</a>.
 </p>
 <p>
-If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). 
+And <a href="https://forms.gle/F87ZVcX9avZEL985A">add yourself using this form</a> so that others can send CIRC to you as well. 
+</p>
+<p>
+Note: Please make sure that you are sharing an address from Circulo3 and not an earlier version of Circulo.
+</p>
+<p>
+If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). Or at the very least, mention it in the Circulo Telegram Channel and tag it with #issue.
 </p>
 <p>
 To get past an error:
 
-1. Reload: When in doubt try: Right click > Reload
-2. Restart: When a few reload tries don't work, please quit and restart
-3. Wait: making yourself a cup of tea resolves most things
-
+1. Wait: making yourself a cup of tea resolves most things
+2. Reload: When in doubt try: Right click > Reload (but reloading over and over may make your wait longer as each reload re-requests everything on the page)
+3. Restart: When a few reload tries don't work, please quit and restart
 </p>
 <p>
-We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is , too.
+We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is too.
 </p>
 </div>
 
@@ -101,7 +112,7 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg)
+[Apple Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg)
 
 [Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_darwin.dmg)
 
@@ -192,3 +203,9 @@ We are using software called Sentry to help track errors so we can better unders
 ## License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+
+
+
+
+
+
