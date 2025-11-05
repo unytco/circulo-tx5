@@ -29,7 +29,7 @@
 Giriş
 </h3>
 <p>
-Circulo'nun 3. sürümüne hoş geldiniz!
+Circulo'nun 4. sürümüne hoş geldiniz!
 </p>
 <p>
 
@@ -108,9 +108,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.msi">MSI Yükleyici (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.msi">MSI Yükleyici (x64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.exe">EXE Kurulumu (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.exe">EXE Kurulumu (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -119,9 +119,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_darwin.dmg">Intel (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_darwin.dmg">Intel (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -130,9 +130,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.AppImage">AppImage</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.AppImage">AppImage</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.deb">Debian (.deb)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.deb">Debian (.deb)</a>
 
 </td>
 
@@ -192,11 +192,11 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ## Sistem Gereksinimleri
 
-| Platform | Minimum Gereksinimler |
-| ----------- | ------------------------------------------ |
-| **Windows** | Windows 10 (64 bit) veya üzeri |
-| **macOS** | macOS 10.15 (Catalina) veya üzeri |
-| **Linux** | Ubuntu 18.04+ / eşdeğer dağıtım |
+| Platform    | Minimum Gereksinimler             |
+| ----------- | --------------------------------- |
+| **Windows** | Windows 10 (64 bit) veya üzeri    |
+| **macOS**   | macOS 10.15 (Catalina) veya üzeri |
+| **Linux**   | Ubuntu 18.04+ / eşdeğer dağıtım   |
 
 <!-- | **Android** | Android 7.0 (API seviyesi 24) veya üzeri | -->
 

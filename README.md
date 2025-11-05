@@ -29,7 +29,7 @@
 Introduction
 </h3>
 <p>
-Welcome to version 3 of Circulo!
+Welcome to version 4 of Circulo!
 </p>
 <p>
 
@@ -112,9 +112,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.msi">MSI Installer (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.msi">MSI Installer (x64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.exe">EXE Setup (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.exe">EXE Setup (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -123,9 +123,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_darwin.dmg">Intel (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_darwin.dmg">Intel (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -134,9 +134,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.AppImage">AppImage</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.AppImage">AppImage</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.deb">Debian (.deb)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.deb">Debian (.deb)</a>
 
 </td>
 
@@ -213,9 +213,3 @@ We are using software called Sentry to help track errors so we can better unders
 ## License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
-
-
-
-
-
