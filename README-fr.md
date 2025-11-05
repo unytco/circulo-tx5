@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="src-tauri/icons/circulo-logo.svg" alt="Circulo" width="300">
+# <img src="src-tauri/icons/circulo-logo-2.svg" alt="Circulo" width="300">
 
 ![Dernière version](https://img.shields.io/github/v/release/unytco/circulo-tx5?style=flat-square&color=blue)
 
