@@ -14,13 +14,10 @@
 
 <table><tr>
 <td><b>Ver archivo README en:</b></td>
-<td><a href=./README>Inglés</a></td>
+<td><a href=./README.md>Inglés</a></td>
 <td><a href=./README-tr.md>Turco</a></td>
-
 <td><a href=./README-de.md> Alemán</a></td>
-
 <td><a href=./README-fr.md> Francés</a></td>
-
 <td><a href=./README-es.md> Español</a></td>
 
 </tr></table>

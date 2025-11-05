@@ -12,7 +12,7 @@
 
 <table><tr>
 <td><b>README dosyasını şu dilde görüntüle: </b></td>
-<td><a href=./README>İngilizce</a><//td>
+<td><a href=./README.md>İngilizce</a><//td>
 <td><a href=./README-tr.md> Türkçe </a><//td>
 <td><a href=./README-de.md> Almanca </a><//td>
 <td><a href=./README-fr.md> Fransızca </a><//td>

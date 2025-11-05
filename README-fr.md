@@ -15,17 +15,11 @@
 <table><tr>
 
 <td><b>Consulter le fichier README en :</b></td>
-
-<td><a href=./README>Anglais</a><//td>
-
+<td><a href=./README.md>Anglais</a><//td>
 <td><a href=./README-tr.md>Turc</a><//td>
-
 <td><a href=./README-de.md>Allemand</a><//td>
-
 <td><a href=./README-fr.md>Français</a><//td>
-
 <td><a href=./README-es.md>Espagnol</a><//td>
-
 </tr></table>
 
 ## Une approche ludique des paiements P2P
