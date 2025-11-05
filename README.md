@@ -8,8 +8,10 @@
 
 <img src="docs/images/circulo-home.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
 
+<p>&nbsp;</p>
+
 <table><tr>
-<td>View README file in: </td>
+<td><b>View README file in: </b></td>
 <td><a href=/README>English</a><//td>
 <td><a href=/README.tr> Türkçe  </a><//td>
 <td><a href=/README.de> Deutsch </a><//td>
