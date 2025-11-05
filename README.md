@@ -8,7 +8,7 @@
 
 <img src="docs/images/circulo-home.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
 
-### A Playful Take on p2p Payments
+## A Playful Take on p2p Payments
 
 <div align="left">
 <h3>
