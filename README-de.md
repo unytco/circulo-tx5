@@ -27,7 +27,7 @@
 </h3>
 <h3> Einführung
 
-Willkommen zu Version 4 von Circulo!
+Willkommen zu Version 3 von Circulo!
 
 Circulo ist ein auf Großzügigkeit basierendes Peer-to-Peer-Zahlungssystem, das auf der Unyt-Technologie für gegenseitige Kreditvergabe basiert.
 
@@ -110,9 +110,9 @@ Wir verwenden die Software Sentry, um Fehler zu erfassen und ihre Häufigkeit un
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.msi">MSI-Installer (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_windows.msi">MSI-Installer (x64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_windows.exe">EXE-Setup (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_windows.exe">EXE-Setup (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -121,9 +121,9 @@ Wir verwenden die Software Sentry, um Fehler zu erfassen und ihre Häufigkeit un
 
 ---
 
-<a <a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
+<a <a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_x64_darwin.dmg">Intel (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_darwin.dmg">Intel (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -132,9 +132,9 @@ Wir verwenden die Software Sentry, um Fehler zu erfassen und ihre Häufigkeit un
 
 ---
 
-<a <a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.AppImage">AppImage</a>
+<a <a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_amd64_linux.AppImage">AppImage</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.4.0/Circulo_zero-arc_0.4.0_amd64_linux.deb">Debian (.deb)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_amd64_linux.deb">Debian (.deb)</a>
 
 </td>
 
