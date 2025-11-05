@@ -6,9 +6,9 @@
 ![Downloads](https://img.shields.io/github/downloads/unytco/circulo-tx5/total?style=flat-square&color=green)
 ![License](https://img.shields.io/github/license/unytco/circulo-tx5?style=flat-square)
 
-### A Playful Take on p2p Payments
-
 <img src="docs/images/circulo-home.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
+
+### A Playful Take on p2p Payments
 
 <div align="left">
 <h3>
