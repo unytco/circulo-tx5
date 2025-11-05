@@ -8,7 +8,7 @@
 
 ### A Playful Take on p2p Payments
 
-<img src="docs/images/circulo3-agent-settings.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
+<img src="docs/images/circulo-home.png" alt="Circulo3 Agent Settings" width="100%" style="max-width: 800px; height: auto;">
 
 <div align="left">
 <h3>
@@ -38,7 +38,7 @@ In Circulo, as soon as you send someone units, your account will be debited.  Ho
 By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
 </p>
 <p>
-Check out the <a href="https://unyt.co/blog/pays-well-with-others/">blog post on Circulo3</a> for more details not only on this release but also on the role that Circulo is playing in helping improve Unyt and Holochain more generally.
+Check out the <a href="https://unyt.co/blog/pays-well-with-others/" target="_blank">blog post on Circulo3</a> for more details not only on this release but also on the role that Circulo is playing in helping improve Unyt and Holochain more generally.
 </p>
 <img src="docs/images/Switch-languages-in-Circulo3.png" alt="Switching languages in Circulo3" width="100%" style="max-width: 800px; height: auto;">
 
@@ -64,16 +64,16 @@ Testing will start on Wednesday, November 5th and we are asking folks to send tr
 After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) will have wrapped up their testing and may no longer be running the app.
 </p>
 <p>
-Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Addresses Sheet</a>.
+Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing" target="_blank">Circulo3 Addresses Sheet</a>.
 </p>
 <p>
-And <a href="https://forms.gle/F87ZVcX9avZEL985A">add yourself using this form</a> so that others can send CIRC to you as well. 
+And <a href="https://forms.gle/F87ZVcX9avZEL985A" target="_blank">add yourself using this form</a> so that others can send CIRC to you as well. 
 </p>
 <p>
 Note: Please make sure that you are sharing an address from Circulo3 and not an earlier version of Circulo.
 </p>
 <p>
-If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues">report it as an issue</a> in this repo (if not already reported). Or at the very least, mention it in the Circulo Telegram Channel and tag it with #issue.
+If you see an error, please <a href="https://github.com/unytco/circulo-tx5/issues" target="_blank">report it as an issue</a> in this repo (if not already reported). Or at the very least, mention it in the Circulo Telegram Channel and tag it with #issue.
 </p>
 <p>
 To get past an error:
@@ -83,7 +83,7 @@ To get past an error:
 3. Restart: When a few reload tries don't work, please quit and restart
 </p>
 <p>
-We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is too.
+We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is most helpful, too.
 </p>
 </div>
 
@@ -101,9 +101,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.msi)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.msi" target="_blank">MSI Installer (x64)</a>
 
-[EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.exe)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.exe" target="_blank">EXE Setup (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -112,9 +112,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[Apple Silicon (arm64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_aarch64_darwin.dmg" target="_blank">Apple Silicon (arm64)</a>
 
-[Intel (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_darwin.dmg)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_darwin.dmg" target="_blank">Intel (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -123,9 +123,9 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[AppImage](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.AppImage)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.AppImage" target="_blank">AppImage</a>
 
-[Debian (.deb)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.deb)
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_amd64_linux.deb" target="_blank">Debian (.deb)</a>
 
 </td>
 
@@ -197,8 +197,8 @@ We are using software called Sentry to help track errors so we can better unders
 
 ## Support
 
-- [Report Issues](https://github.com/unytco/circulo-tx5/issues)
-- [Discussions](https://link-to-telegram)
+- <a href="https://github.com/unytco/circulo-tx5/issues" target="_blank">Report Issues</a>
+- <a href="https://link-to-telegram" target="_blank">Discussions</a>
 
 ## License
 
