@@ -18,13 +18,13 @@
 
 <td><a href=./README>Anglais</a><//td>
 
-<td><a href=./README.tr>Turc</a><//td>
+<td><a href=./README-tr.md>Turc</a><//td>
 
-<td><a href=./README.de>Allemand</a><//td>
+<td><a href=./README-de.md>Allemand</a><//td>
 
-<td><a href=./README.fr>Français</a><//td>
+<td><a href=./README-fr.md>Français</a><//td>
 
-<td><a href=./README.es>Espagnol</a><//td>
+<td><a href=./README-es.md>Espagnol</a><//td>
 
 </tr></table>
 

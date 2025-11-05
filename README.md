@@ -13,10 +13,10 @@
 <table><tr>
 <td><b>View README file in: </b></td>
 <td><a href=./README>English</a><//td>
-<td><a href=./README.tr> Türkçe  </a><//td>
-<td><a href=./README.de> Deutsch </a><//td>
-<td><a href=./README.fr> Français </a><//td>
-<td><a href=./README.es> Español </a><//td>
+<td><a href=./README-tr.md> Türkçe  </a><//td>
+<td><a href=./README-de.md> Deutsch </a><//td>
+<td><a href=./README-fr.md> Français </a><//td>
+<td><a href=./README-es.md> Español </a><//td>
 </tr></table>
 
 ## A Playful Take on p2p Payments

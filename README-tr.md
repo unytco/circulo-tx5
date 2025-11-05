@@ -13,10 +13,10 @@
 <table><tr>
 <td><b>README dosyasını şu dilde görüntüle: </b></td>
 <td><a href=./README>İngilizce</a><//td>
-<td><a href=./README.tr> Türkçe </a><//td>
-<td><a href=./README.de> Almanca </a><//td>
-<td><a href=./README.fr> Fransızca </a><//td>
-<td><a href=./README.es> İspanyolca </a><//td>
+<td><a href=./README-tr.md> Türkçe </a><//td>
+<td><a href=./README-de.md> Almanca </a><//td>
+<td><a href=./README-fr.md> Fransızca </a><//td>
+<td><a href=./README-es.md> İspanyolca </a><//td>
 </tr></table>
 
 ## Eşler Arası Ödemelere Eğlenceli Bir Bakış

@@ -13,10 +13,10 @@
 <table><tr>
 <td><b>README-Datei anzeigen in:</b></td>
 <td><a href=./README>Englisch</a><//td>
-<td><a href=./README.tr>Türkisch</a><//td>
-<td><a href=./README.de>Deutsch</a><//td>
-<td><a href=./README.fr>Französisch</a><//td>
-<td><a href=./README.es>Spanisch</a><//td>
+<td><a href=./README-tr.md>Türkisch</a><//td>
+<td><a href=./README-de.md>Deutsch</a><//td>
+<td><a href=./README-fr.md>Französisch</a><//td>
+<td><a href=./README-es.md>Spanisch</a><//td>
 </tr></table>
 
 ## Ein spielerischer Blick auf P2P-Zahlungen
