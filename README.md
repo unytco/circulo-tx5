@@ -12,11 +12,11 @@
 
 <table><tr>
 <td><b>View README file in: </b></td>
-<td><a href=/README>English</a><//td>
-<td><a href=/README.tr> Türkçe  </a><//td>
-<td><a href=/README.de> Deutsch </a><//td>
-<td><a href=/README.fr> Français </a><//td>
-<td><a href=/README.es> Español </a><//td>
+<td><a href=./README>English</a><//td>
+<td><a href=./README.tr> Türkçe  </a><//td>
+<td><a href=./README.de> Deutsch </a><//td>
+<td><a href=./README.fr> Français </a><//td>
+<td><a href=./README.es> Español </a><//td>
 </tr></table>
 
 ## A Playful Take on p2p Payments
@@ -49,7 +49,7 @@ In Circulo, as soon as you send someone units, your account will be debited.  Ho
 By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
 </p>
 <p>
-Check out the <a href="https://unyt.co/blog/pays-well-with-others/">blog post on Circulo3</a> for more details not only on this release but also on the role that Circulo is playing in helping improve Unyt and Holochain more generally.
+Check out the <a href="https://unyt.co/blog/circulo3/">blog post on Circulo3</a> for more details not only on this release but also on the role that Circulo is playing in helping improve Unyt and Holochain more generally.
 </p>
 <img src="docs/images/Switch-languages-in-Circulo3.png" alt="Switching languages in Circulo3" width="100%" style="max-width: 800px; height: auto;">
 
