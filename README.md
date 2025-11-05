@@ -52,16 +52,16 @@ This third version of Circulo provides support for multiple languages including 
 Circulo3 also includes some performance improvements that should make the app a bit faster and more reliable. 
 </p>
 <p>
-We are planning to do a couple of focused rounds of testing of this version of Circulo. 
+If you want to join in on the conversation as well as the testing, request to join the Circulo Telegram channel by sending an email to info@unyt.co with the subject "I want to play!". Our team will send you an invite link.
+</p>
+<p>
+For version 3 of Circulo, we are planning to do one focused round of testing. 
 </p>
 <p>
 Testing will start on Wednesday, November 5th and we are asking folks to send transactions, try out different languages and just generally explore the app for a couple of days.
 </p>
 <p>
-After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) won't be online over the weekend.
-</p>
-<p>
-We are planning to do a second round of testing of the app again early next week on Monday, November 10th through Tuesday the 11th. This second round of testing just helps surface any issues that may show up on longer running apps, but also gives more people a chance to try out the app alongside others.
+After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) will have wrapped up their testing and may no longer be running the app.
 </p>
 <p>
 Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Addresses Sheet</a>.
@@ -101,7 +101,7 @@ We are using software called Sentry to help track errors so we can better unders
 
 ---
 
-[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_0.3.0_x64_windows.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.msi)
 
 [EXE Setup (x64)](https://github.com/unytco/circulo-tx5/releases/download/v0.3.0/Circulo_zero-arc_0.3.0_x64_windows.exe)
 
