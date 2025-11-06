@@ -69,7 +69,7 @@ If you want to join in on the conversation as well as the testing, request to jo
 For version 3 of Circulo, we are planning to do one focused round of testing. 
 </p>
 <p>
-Testing will start on Wednesday, November 5th and we are asking folks to send transactions, try out different languages and just generally explore the app for a couple of days.
+Testing will start on Thursday, November 6th and we are asking folks to send transactions, try out different languages and just generally explore the app for a couple of days.
 </p>
 <p>
 After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) will have wrapped up their testing and may no longer be running the app.
