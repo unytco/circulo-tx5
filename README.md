@@ -60,7 +60,7 @@ Testing
 This third version of Circulo provides support for multiple languages including Turkish, German, Spanish and French. Simply go to Agent Overview > Settings Gear > Language and pick whichever mother tongue that speaks to you. And if there is another language you want included and that you can help with, reach out. 
 </p>
 <p>
-Circulo3 also includes some performance improvements that should make the app a bit faster and more reliable. 
+Circulo3 also includes some performance improvements that should make the app a bit faster and more reliable. That said, most people will be running zero arc nodes, which tend to be a bit slower when sending and receiving. Zero Arc should be faster on Circulo3 than on Circulo2, but still not as fast as some people have experienced when running Full Arc nodes.
 </p>
 <p>
 If you want to join in on the conversation as well as the testing, request to join the Circulo Telegram channel by sending an email to info@unyt.co with the subject "I want to play!". Our team will send you an invite link.
