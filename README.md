@@ -75,10 +75,10 @@ Testing will start on Wednesday, November 5th and we are asking folks to send tr
 After Friday, the 7th, people are welcome to still play with the app, but assume that most folks (including our team) will have wrapped up their testing and may no longer be running the app.
 </p>
 <p>
-Find some people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Addresses Sheet</a>.
+<a href="https://forms.gle/F87ZVcX9avZEL985A">Share your address with others</a> so that they can send you some CIRC. 
 </p>
 <p>
-And <a href="https://forms.gle/F87ZVcX9avZEL985A">add yourself using this form</a> so that others can send CIRC to you as well. 
+You can find other people to send CIRC to in the <a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Addresses Sheet</a>.
 </p>
 <p>
 Note: Please make sure that you are sharing an address from Circulo3 and not an earlier version of Circulo.
