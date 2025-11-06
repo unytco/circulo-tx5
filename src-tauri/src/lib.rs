@@ -342,7 +342,7 @@ fn network_config() -> NetworkConfig {
 
     network_config.advanced = Some(serde_json::json!({
         "tx5Transport": {
-            "timeoutS": 30, // defaults to 60
+            "timeoutS": 60, // defaults to 60
         }
     }));
 
