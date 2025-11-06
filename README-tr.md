@@ -108,9 +108,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_windows.msi">MSI Yükleyici (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_x64_windows.msi">MSI Yükleyici (x64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_windows.exe">EXE Kurulumu (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_x64_windows.exe">EXE Kurulumu (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -119,9 +119,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_aarch64_darwin.dmg">Apple Silicon (arm64)</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_x64_darwin.dmg">Intel (x64)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_x64_darwin.dmg">Intel (x64)</a>
 
 </td>
 <td width="25%" align="center">
@@ -130,9 +130,9 @@ Hataların sıklığını ve bağlamını daha iyi anlayabilmek için Sentry adl
 
 ---
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_amd64_linux.AppImage">AppImage</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_amd64_linux.AppImage">AppImage</a>
 
-<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.0.0/Circulo_zero-arc_3.0.0_amd64_linux.deb">Debian (.deb)</a>
+<a href="https://github.com/unytco/circulo-tx5/releases/download/v3.1.0/Circulo_zero-arc_3.1.0_amd64_linux.deb">Debian (.deb)</a>
 
 </td>
 
