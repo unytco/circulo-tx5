@@ -1092,7 +1092,7 @@ dependencies = [
 
 [[package]]
 name = "circulo-tx5-tauri"
-version = "0.10.0"
+version = "0.11.0"
 dependencies = [
  "anyhow",
  "app_dirs2",
@@ -3519,7 +3519,7 @@ dependencies = [
 [[package]]
 name = "holochain_runtime"
 version = "0.1.0"
-source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#fb9723176a70cfcc9e2c816386305bd2caa91f1b"
+source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#5dfea5dbf8e79d595c97fa91267317a1de9e44ba"
 dependencies = [
  "anyhow",
  "arbitrary",
@@ -4500,8 +4500,7 @@ dependencies = [
 [[package]]
 name = "kitsune2"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "88acf4edc2ab4fb63b2fef5798d5109e3244d23269ad7ab0bb3a40fb0fd4d5cc"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "bytes",
  "kitsune2_api",
@@ -4514,8 +4513,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_api"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3a52f645777c05b13fa20c1d97fb1359fc4ff0391a02bf08b7cf907e5e735a3c"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "base64 0.22.1",
  "bytes",
@@ -4531,8 +4529,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_bootstrap_client"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2b15e909284bd2a4b5fec0c1783f89cc8de04b6779ac495c546c923eead251f7"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "base64 0.22.1",
  "kitsune2_api",
@@ -4546,8 +4543,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_core"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0211475939d8d0990a969dc1875134a5415375ce99f8c9acd937ddc6abc1c43b"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "bytes",
  "ed25519-dalek",
@@ -4566,8 +4562,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_dht"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "80f0b8bf4e23c4d163a9d584a2d9bc4cf77cdbc9510c3eb3f0bd3e1f4fb67aa3"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "bytes",
  "kitsune2_api",
@@ -4577,8 +4572,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_gossip"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "31b7ae1edc348e0c394216800d4179bad370d60c91f623b054023da7a4a5adb0"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "bytes",
  "futures",
@@ -4597,8 +4591,7 @@ dependencies = [
 [[package]]
 name = "kitsune2_transport_tx5"
 version = "0.3.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "475b1940791bd38f437b2580d7ccc610cf31ac26093d1fa90f0e1c5ad8c5c377"
+source = "git+https://github.com/holochain/kitsune2?branch=refactor/do-not-block-peers-by-default#5498676d79fa91c0bca63d897bb99f3e1ba358b9"
 dependencies = [
  "base64 0.22.1",
  "bytes",
@@ -4614,7 +4607,7 @@ dependencies = [
 [[package]]
 name = "kitsune_p2p_mdns"
 version = "0.4.4"
-source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#fb9723176a70cfcc9e2c816386305bd2caa91f1b"
+source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#5dfea5dbf8e79d595c97fa91267317a1de9e44ba"
 dependencies = [
  "base64 0.22.1",
  "libmdns",
@@ -8952,7 +8945,7 @@ dependencies = [
 [[package]]
 name = "tauri-plugin-holochain"
 version = "0.0.0"
-source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#fb9723176a70cfcc9e2c816386305bd2caa91f1b"
+source = "git+https://github.com/zo-el/tauri-plugin-holochain/?branch=main-0.6-go-pion#5dfea5dbf8e79d595c97fa91267317a1de9e44ba"
 dependencies = [
  "anyhow",
  "bzip2",
