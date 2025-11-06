@@ -1,6 +1,6 @@
 [package]
 name = "circulo-tx5-tauri"
-version = "0.5.0"
+version = "0.6.0"
 description = "Circulo"
 authors = ["zo-el"]
 license = ""
