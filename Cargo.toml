@@ -13,10 +13,10 @@ members = ["src-tauri"]
 resolver = "2"
 
 
-[patch.crates-io]
-kitsune2 = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
-kitsune2_api = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
-kitsune2_core = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
-kitsune2_dht = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
-kitsune2_gossip = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
-kitsune2_bootstrap_client = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# [patch.crates-io]
+# kitsune2 = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# kitsune2_api = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# kitsune2_core = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# kitsune2_dht = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# kitsune2_gossip = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }
+# kitsune2_bootstrap_client = { git = "https://github.com/holochain/kitsune2", branch = "refactor/do-not-block-peers-by-default" }

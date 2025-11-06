@@ -73,7 +73,7 @@ pub fn run() {
         .level_for("holochain", log::LevelFilter::Info)
         .level_for("kitsune2", log::LevelFilter::Info)
         .level_for("kitsune2_gossip", log::LevelFilter::Info)
-        .level_for("kitsune2_api", log::LevelFilter::Info)
+        .level_for("kitsune2_api", log::LevelFilter::Debug)
         .level_for("holochain_runtime", log::LevelFilter::Info)
         .level_for("unyt", log::LevelFilter::Debug);
 
