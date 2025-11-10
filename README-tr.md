@@ -73,10 +73,10 @@ Testler 5 Kasım Çarşamba günü başlayacak ve katılımcılardan işlem gön
 <p>
 7 Kasım Cuma gününden sonra, kullanıcılar uygulamayı oynamaya devam edebilir, ancak çoğu kişinin (ekibimiz de dahil) testlerini tamamlamış olacağını ve uygulamayı artık kullanmayabileceğini varsayıyoruz. </p>
 <p>
-<a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?usp=sharing">Circulo3 Adres Sayfasında</a> CIRC gönderebileceğiniz kişileri bulun.
+<a href="https://docs.google.com/spreadsheets/d/1W-Ljs5lc6d4CjCTFKTYIoSxJr6ShJt26LZFvzyuHnbQ/edit?resourcekey=&gid=1819986526#gid=1819986526">Circulo3 Adres Sayfasında</a> CIRC gönderebileceğiniz kişileri bulun.
 </p>
 <p>
-Ve <a href="https://forms.gle/F87ZVcX9avZEL985A">bu formu kullanarak kendinizi ekleyin</a>, böylece başkaları da size CIRC gönderebilir.
+Ve <a href="https://forms.gle/9WZDDtEYbPrW6iu66">bu formu kullanarak kendinizi ekleyin</a>, böylece başkaları da size CIRC gönderebilir.
 </p>
 <p>
 Not: Lütfen Circulo3'ten bir adres paylaştığınızdan ve önceki bir Circulo sürümünden paylaşmadığınızdan emin olun. </p>
