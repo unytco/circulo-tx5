@@ -2,12 +2,12 @@ mod app_config;
 mod generated_arc_factor;
 mod utils;
 use anyhow::anyhow;
-pub use app_config::{AppConfig, APP_ID_PREFIX, IDENTIFIER_DIR};
+pub use app_config::{get_version, AppConfig, APP_ID_PREFIX, IDENTIFIER_DIR};
 use std::path::PathBuf;
 use tauri::{AppHandle, Listener, WebviewWindow};
 use tauri_plugin_holochain::{
     vec_to_locked, AppBundle, AppStatusFilter, DnaModifiersOpt, HolochainExt,
-    HolochainPluginConfig, NetworkConfig, RoleSettings, RoleSettingsMap,
+    HolochainPluginConfig, NetworkConfig, ReportConfig, RoleSettings, RoleSettingsMap,
 };
 pub use utils::migrate_app;
 
@@ -393,6 +393,12 @@ fn network_config() -> NetworkConfig {
         ]
     }));
 
+    // enable reporting
+    network_config.report = ReportConfig::JsonLines {
+        days_retained: 30,
+        fetched_op_interval_s: 60,
+    };
+
     // network_config.advanced = Some(serde_json::json!({
     //     "tx5Transport": {
     //         "timeoutS": 30, // defaults to 60
@@ -471,34 +477,4 @@ fn holochain_dir() -> PathBuf {
         );
         holochain_path
     }
-}
-
-fn get_version() -> String {
-    let semver = std::env!("CARGO_PKG_VERSION");
-    debug!("get_version: Raw semver: {}", semver);
-
-    if semver.starts_with("0.0.") {
-        println!(
-            "[unyt_tauri] get_version: Version starts with 0.0., returning full version: {}",
-            semver
-        );
-        return semver.to_string();
-    }
-
-    if semver.starts_with("0.") {
-        let v: Vec<&str> = semver.split(".").collect();
-        let version = format!("{}.{}", v[0], v[1]);
-        println!(
-            "[unyt_tauri] get_version: Version starts with 0., returning major.minor: {}",
-            version
-        );
-        return version;
-    }
-    let v: Vec<&str> = semver.split(".").collect();
-    let version = format!("{}", v[0]);
-    println!(
-        "[unyt_tauri] get_version: Returning major version only: {}",
-        version
-    );
-    return version;
 }
